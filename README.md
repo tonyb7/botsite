@@ -1,2 +1,2 @@
 # botsite
-hi
+Hello.
